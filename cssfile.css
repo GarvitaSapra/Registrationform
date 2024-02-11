@@ -1,0 +1,26 @@
+<style type="text/css"> 
+body 
+{ 
+ background-color:#ffffcc ; 
+} 
+font 
+{  
+ color: #99e6ff ; 
+ background-color: #800000; 
+ display: block; 
+} 
+table 
+{ 
+ background-color:#ffff99; 
+} 
+.td 
+{ 
+ background-color: #99ffcc; 
+ text-align: right; 
+} 
+.td1 
+{ 
+    background-color:#b3ff99; 
+    text-align: left; 
+ } 
+</style>
