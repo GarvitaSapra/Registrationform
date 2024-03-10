@@ -1,7 +1,3 @@
-body 
-{ 
- background-color:#ffffcc ; 
-} 
 font 
 {  
  color: #99e6ff ; 
@@ -22,4 +18,28 @@ table
     background-color:#b3ff99; 
     text-align: left; 
  } 
+
+
+body {
+    background-image: url('bgimage.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+
+.t
+{ 
+  border-radius: 30px;
+  background-color: #ffff99; 
+  border: 2px solid; 
+  width: 30%; 
+  padding: 5px; 
+  border-spacing: 6px; 
+}
+
+
+
+
+@media only screen and (max-width: 500px) 
+</style>
+
 
